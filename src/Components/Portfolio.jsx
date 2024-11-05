@@ -32,27 +32,25 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Comment Posting Web Application",
-    description:
-      "",
+    description: "A web application that allows users to post comments. Built using React.js, Node.js, Express.js, and SQL.",
     url: "",
   },
   {
-    title: "",
+    title: "Chit-Chat Web Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web application that allows users to chat with each other. Built using React.js and ChatEngine.io API. Connected using Axios.",
+    url: "",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    description: "My personal portfolio site. Built using React.js, HTML, CSS, and JavaScript.",
+    url: "https://github.com/yashleo/portfolio-public-1",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Skin Lesions Classification Using Deep Learning",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Used Deep Convolutional Neural Network with Attention mechanism module to classify images. Based on the CIFAR-10 dataset. Achieved an accuracy of 86.7%.",
+    url: "",
   },
 ];
 
