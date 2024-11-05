@@ -27,7 +27,7 @@ I am a passionate developer with experience in various technologies and a strong
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python, SQL
+- **Programming Languages:**Java, Python, SQL, Javascript
 - **Frameworks and Libraries:** React.js, Node.js, Express.js, TensorFlow
 - **Tools and Platforms:** Git, GitHub, Visual Studio Code, ChatEngine.io, SQL Databases
 
